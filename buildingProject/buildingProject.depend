@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1768951073 source:/home/user-s/codes/buildingProject/main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<cmath>
+	<iostream>
+
